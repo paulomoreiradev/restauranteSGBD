@@ -28,7 +28,7 @@ source venv/bin/activate
 
 ### 2. Instalar dependências
 ```sh
-pip install flask psycopg2
+pip install flask psycopg2-binary
 ```
 
 ### 3. Configurar o banco de dados
