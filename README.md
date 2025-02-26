@@ -10,7 +10,7 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 - Um ambiente virtual configurado
 
 ## Configuração
-
+Navegue para a pasta raiz do projeto restauranteSGDB/
 ### 1. Criar e ativar o ambiente virtual
 ```sh
 python -m venv venv
